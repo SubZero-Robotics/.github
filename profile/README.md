@@ -10,5 +10,5 @@ Welcome to the Subzero Robotics software organization! Past C++ code from 2022 a
 
 ## Currently active repositories
 
-- [2023 Offseason MonoRepo](https://github.com/subzero-robotics/2023-swerve-base)
+- [2024 Season MonoRepo](https://github.com/SubZero-Robotics/2024-CommandRobot)
 - [Common Component Library](https://github.com/subzero-robotics/subzero-common)
