@@ -12,4 +12,4 @@ Welcome to the Subzero Robotics software organization! Past C++ and Java code fr
 
 ## Currently active repositories
 
-- [2026 Season MonoRepo](https://github.com/SubZero-Robotics/2026-CommandRobot)
+- [2026 Season Code](https://github.com/SubZero-Robotics/2026-CommandRobot)
